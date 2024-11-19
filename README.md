@@ -1,3 +1,14 @@
+> [!NOTE]
+>
+> Repo is archived due to not having maintainers - feel free to contact us if you want to take over maintenance.
+>
+> Otherwise, we might reintroduce trpc-openapi to the world as a paid package.
+> 
+> For now, look at https://www.npmjs.com/package/trpc-to-openapi for an alternative
+
+---
+
+
 ![trpc-openapi](assets/trpc-openapi-readme.png)
 
 <div align="center">
